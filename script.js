@@ -1,19 +1,16 @@
-Javascript file
+javascript file
+
 <!DOCTYPE html>
 <html>
 <head>
   <title>Simple JS Example</title>
 </head>
 <body>
+  <h1>OpenAI ChatGPT Example</h1>
 
-<h2>Click the button to see a message:</h2>
-<button onclick="sayHello()">Click Me</button>
-
-<script>
-  function sayHello() {
-    alert("Hello! Have a great day");
-  }
-</script>
-
+  <script>
+    console.log("Hello!");
+    alert("Welcome to the Javascript example page!");
+  </script>
 </body>
 </html>
