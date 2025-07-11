@@ -1,0 +1,33 @@
+/*Chaithanya*
+/* Apply a background and font to the whole page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #222222;
+  padding: 20px;
+}
+
+/* Style for headings */
+h1, h2 {
+  color: #336699;
+}
+
+/* Paragraph style */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Button style */
+button {
+  padding: 10px 20px;
+  background-color: #336699;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #274d73;
+}
