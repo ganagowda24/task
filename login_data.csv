@@ -1,0 +1,4 @@
+user_id,username,password,role,created_date
+1,john_doe,password123,user,2025-07-11
+2,admin_user,admin@123,admin,2025-07-11
+3,sindhu_c,sindhu@pass,user,2025-07-11
